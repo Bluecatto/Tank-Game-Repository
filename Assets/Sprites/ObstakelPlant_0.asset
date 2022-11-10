@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ObstakelPlant_0
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 922148734, guid: 7d2f7bdcd122c3c4b8ed6fe11a6d3488, type: 3}
-  m_Color: {r: 1, g: 0.3622641, b: 0.3622641, a: 1}
+  m_Color: {r: 0, g: 0.4627451, b: 0.6784314, a: 1}
   m_Transform:
     e00: 1
     e01: 0
