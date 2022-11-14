@@ -3584,6 +3584,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6607793360709109737, guid: c8522f38d899b4045818edef818828ec, type: 3}
+      propertyPath: m_Color.b
+      value: 0.7924528
+      objectReference: {fileID: 0}
+    - target: {fileID: 6607793360709109737, guid: c8522f38d899b4045818edef818828ec, type: 3}
+      propertyPath: m_Color.g
+      value: 0.49640438
+      objectReference: {fileID: 0}
+    - target: {fileID: 6607793360709109737, guid: c8522f38d899b4045818edef818828ec, type: 3}
+      propertyPath: m_Color.r
+      value: 0.6791503
+      objectReference: {fileID: 0}
     - target: {fileID: 6607793360709109738, guid: c8522f38d899b4045818edef818828ec, type: 3}
       propertyPath: m_Name
       value: Bullet
